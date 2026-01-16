@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Guna
 
-<!--
-**guna1023/guna1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Data Science Student  
+💻 Interested in Data Analysis & Python  
+📊 Skills: Python, SQL, Excel, Pandas  
+🌱 Currently learning: Machine Learning  
 
-Here are some ideas to get you started:
+### 🔧 Tools & Technologies
+- Python
+- SQL
+- Excel
+- Power BI (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- TrendPulse – Social Media Trend Analysis
+- Student Result Analysis using Excel
+
+### 📫 Contact
+- Email: guna10121012@email.com
+- LinkedIn: linkedin.com/in/guna-data-science
